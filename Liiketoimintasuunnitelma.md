@@ -2,11 +2,16 @@ Liiketoimintasuunnitelma
 ====================================================================
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Liikeidea
 Tekoäly laaduntarkkailuun esim. vaikka tehtaaseen joka tuottaa rakennus tarvikkeita. Laaduntarkkailu suoritettaisiin laser skannauksella ja kuvien vertailulla tekoälyä hyödyntäen. 
 =======
 <<<<<<< HEAD
+=======
+
+>>>>>>> ecc5d57284f8ba2ba1ef8bd3046aa25b908c6d7b
 ##Idea
+Ohjelmistoyritys joka tarjoaa tekoälyn ohjelmointipalveluja. Olemme erikoistuneet laadunhallintaan ja laadunvarmistukseen teollisuusyrityksille. Tuotannonsuunnittelu ja kuormitus optimoidaan toimimaan vähemmillä ongelmilla laadunhallinnan myötä. Näin sama teollisuusyritys tuottaa enemmän samalla henkilöstöllä ja samoilla koneilla kuin aiemmin. Tuotannonsuunnittelussa voidaan optimoida koneet tekemään peräkkäin työt jotka tuotetaan samoilla materiaaleilla tai työkoneilla. 
 
 ##Asiakkaat
 
@@ -29,6 +34,7 @@ tekoäly laadun tarkkailussa
 ## Kohderyhmä
 Yrityksille jotka tarvii nopeaa laadun tarkistusta ilman että laatu kärsii
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ## Kilpailijat
@@ -62,3 +68,10 @@ Yrityksem riskeihin kuulu muunmuassa:
 =======
 #
 >>>>>>> c0f1e3430e5d614d479b73a06d9f5d7a2a1bc688
+=======
+
+
+=======
+
+
+>>>>>>> ecc5d57284f8ba2ba1ef8bd3046aa25b908c6d7b
