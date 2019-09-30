@@ -1,9 +1,7 @@
 Duuniseuranta
 ====================================================================
 
-<<<<<<< HEAD:Testi.md
-* Testi
+##30. Syyskuuta 2019
 
-Moi, Tää piti teh ku ope halus.
-=======
->>>>>>> filejä:Duuniseuranta.md
+###Jenna
+Tehnyt pohjan duuniseurantaan ja miettinyt osioita liiketoimintasuunnitelmaan

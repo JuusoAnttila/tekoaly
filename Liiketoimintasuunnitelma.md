@@ -1,12 +1,33 @@
 Liiketoimintasuunnitelma
 ====================================================================
 
+<<<<<<< HEAD
 ## Liikeidea
 Tekoäly laaduntarkkailuun esim. vaikka tehtaaseen joka tuottaa rakennus tarvikkeita. Laaduntarkkailu suoritettaisiin laser skannauksella ja kuvien vertailulla tekoälyä hyödyntäen. 
+=======
+<<<<<<< HEAD
+##Idea
+
+##Asiakkaat
+
+##Kilpailu
+
+##Palvelu ja tuotteet
+
+##Markkinointi
+
+##Toiminnan organisointi
+
+##Talous
+=======
+Liikeidea
+tekoäly laadun tarkkailussa
+>>>>>>> 9879fda4cc77a5ea0bce307347917bfac4d2da7d
 
 ## Kohderyhmä
 Yrityksille jotka tarvii nopeaa laadun tarkistusta ilman että laatu kärsii
 
+<<<<<<< HEAD
 ## Kilpailijat
 Muut yritykset/palvelun tarjoat, jotka tuotta/tarjoavat samankaltasia laaduntarkkailu järjestelmiä.
 
@@ -32,3 +53,6 @@ Yrityksem riskeihin kuulu muunmuassa:
 |  |€ |
 
 
+=======
+>>>>>>> c0c417261672e1f43e20811e6eb3e100ca0290c3
+>>>>>>> 9879fda4cc77a5ea0bce307347917bfac4d2da7d
