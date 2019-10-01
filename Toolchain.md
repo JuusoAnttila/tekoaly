@@ -28,5 +28,9 @@ Helposti yhdistettävissä suoraan GIT repositoriin jolloinka työn tekeminen su
 Googlella on tarjolla valmiina (Machine Learning) engine jolla voidaan opettaa meidän omaa tekoälyä olemaan tarkempi ja nopeampi.
 Koska se tapahtuu muualla kuin paikallisella koneella voidaan kirjoittaa koodia samaan aikaan kun sitä testataan ja opetetaan.
 
+#TensorFlow
+
+Googlen omistama yritys joka tarjoaa end to end vapaan lähdekoodin koneoppimiseen perustuvaa lähdekoodia.
+
 
 
