@@ -16,7 +16,7 @@ Teknologian kehittyessä tekoäly kehittyy myös ja sen käyttö lisääntyy sit
 Yrityksellä on omat kotisivut, joiden kautta voi lähestyä tai ottaa yhteyttä yritykseen. Yritys on myös esillä erilaississa tapahtumissa.
 
 ##Toiminnan organisointi
-
+Yrityksen toimintaa ohjaa yhtiön hallitus. Ja hallitukseen kuuluu kaikki yhtiön osakkaat. Hallituksen kokouksissa määritellään yrityksen focusta ja kehityssuuntia. Yrityksen päivittäisestä toiminnasta vastaa Toimitusjohtaja joka on yhtiön hallituksen valitsema henkilö. Toimitusjohtaja valitaan yhtiön hallituksen keskuudesta ja toimitusjohtaja on myös yhtiön osakas. Toimitusjohtaja vastaa yrityksen henkilökunnan lisäksi myynnistä ja markkinoinnista. Henkilökuntaan kuuluu toimitusjohtajan lisäksi ohjelmoijia jotka vastaavat asiakasyrityksien tuotteiden ja palvelujen kehittämisestä.
 ##Talous
 
 ## Kohderyhmä
