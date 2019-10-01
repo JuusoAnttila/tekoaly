@@ -31,6 +31,7 @@ Koska se tapahtuu muualla kuin paikallisella koneella voidaan kirjoittaa koodia 
 #TensorFlow
 
 Googlen omistama yritys joka tarjoaa end to end vapaan lähdekoodin koneoppimiseen perustuvaa lähdekoodia.
+TensorFlowilla pystyy opettamaan ognelmien ratkaisua tekoälylle. Tarvitsemme ainoastaan paljon materiaalia jota se käsittelee ja havaitsee onglemat ja näin opetamme sen vahtimaan tarkasti laadun valvonnassa.
 
 
 
