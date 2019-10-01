@@ -7,5 +7,5 @@ Duuniseuranta
 Tehnyt pohjan duuniseurantaan ja miettinyt osioita liiketoimintasuunnitelmaan
 
 ###Juuso
-Listannut toolchainiin työkaluja ja antanut niille perusteluita
+Listannut toolchainiin työkaluja ja antanut niille perusteluita valintoihin
 
