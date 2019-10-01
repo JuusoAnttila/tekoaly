@@ -1,34 +1,32 @@
 Toolchain
 ====================================================================
 
-#Ohjelmat mitä tarvitaan tekoälyn luontiin.
+## Ohjelmat tekoälyn luontiin.
 
-#Python
+### Python
 
 yleisin käytetty ohjelmointi kieli tekoälyjen ja koneoppimiseen käytetty kieli. Kieli sopii aloittaville ja se sisältää paljon matemaattisia lasku toimenpiteitä.
 Se on ilmainen ja siihen kuuluvat ohjelmat kuten pycharm on ilmainen open sourcena.
 
-#pycharm
+### pycharm
 
 pythonille luotu debugguggaus työkalu jolla voi suorittaa helposti pythonissa kirjoitettua koodia erillisinä osina jolloinka vian etsintä helpottuu ja on nopeammin korjattavissa.
 pycharm ei ole ilmainen kuin ainoastaan open source mahdollisuutena.
 
-#Java
+### Java
 
 Javalla voi kirjoittaa vaikeimmat kohdat joita on lähestulkoon mahdotonta kirjoittaa pythonilla
 
-#Visual Studio Code
+### Visual Studio Code
 
-Se on integroitavissa suoraan Oracleen samalla se on erittäin kevyt ja se saa jatkuvasti pävityksiä.
-Siinä on sisään rakennettu töiden suoritin (tehtävien juoksuttaja).
-Helposti yhdistettävissä suoraan GIT repositoriin jolloinka työn tekeminen sujuvoituu huomattavasti.
+Visual Studio Code on monialustainen ilmainen tekstieditori, joka tukee useita koodikieliä ja lisäosien avulla kielimäärää voidaan lisätä. Siinä on tuki virheenkorjaukselle, ja sisäänrakennettu töiden suoritin (tehtävien juoksuttaja) ja tuki Git-komennoille, minkä vuoksi se on helposti yhdistettävissä suoraan Git-repositoriin, jolloinka työn tekeminen sujuvoituu huomattavasti. Se voi toimia myös ohjelmointiympäristönä. Visual Studio Code on integroitavissa suoraan Oracleen, se on erittäin kevyt ja se saa jatkuvasti pävityksiä.
 
-#Google Cloud ML Engine
+### Google Cloud ML Engine
 
 Googlella on tarjolla valmiina (Machine Learning) engine jolla voidaan opettaa meidän omaa tekoälyä olemaan tarkempi ja nopeampi.
 Koska se tapahtuu muualla kuin paikallisella koneella voidaan kirjoittaa koodia samaan aikaan kun sitä testataan ja opetetaan.
 
-#TensorFlow
+### TensorFlow
 
 Googlen omistama yritys joka tarjoaa end to end vapaan lähdekoodin koneoppimiseen perustuvaa lähdekoodia.
 TensorFlowilla pystyy opettamaan ognelmien ratkaisua tekoälylle. Tarvitsemme ainoastaan paljon materiaalia jota se käsittelee ja havaitsee onglemat ja näin opetamme sen vahtimaan tarkasti laadun valvonnassa.
