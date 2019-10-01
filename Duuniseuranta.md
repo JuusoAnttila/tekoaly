@@ -13,3 +13,6 @@ Listannut toolchainiin työkaluja ja antanut niille perusteluita valintoihin
 
 ###Jenna
 Korjannut hieman Liiketoimintasuunnitelmaa  ja kirjoittanut kilpailusta.
+
+###Juuso
+Lisäillyt Toolchain osioon lisää työkaluja ja perusteluita niihin.
