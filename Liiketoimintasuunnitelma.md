@@ -37,8 +37,7 @@ Toimitusjohtajan lisäksi henkilökuntaan kuuluu ohjelmoijia jotka tekevät tuot
 ### Riskit
 Yrityksen riskeihin kuulu muunmuassa:
 * Tekoälyn toimivuus/luotettavuus
-* Myyntiin/markkinoitiin liittyvät ongelmat (esim. asiakkaiden uuppuminen)
-* 
+* Myyntiin/markkinoitiin liittyvät ongelmat (esim. asiakkaiden uuppuminen) 
 
 ## Rahoituslaskelma
 | Rahantarve | EUR |
