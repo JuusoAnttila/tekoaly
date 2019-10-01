@@ -29,6 +29,8 @@ Muut yritykset/palvelun tarjoat, jotka tuottavat/tarjoavat samankaltasia laadunt
 Yritys on ohjelmointiin pperustuva yritys, jonka tarkoituksena on tuottaa tekoäly laaduntarkkailua varten. 
 
 ### Työntekijät
+Yrityksen toimitusjohtaja valitaan yhtiön hallituksesta. Hallitukseen kuuluu kaikki yhtiön osakkaat. Toimitusjohtaja hakee ja valitsee yrityksen henkilökunnan. Henkilökuntaan tarvitaan toimitusjohtajan lisäksi ohjelmoijia.
+Työpaikkailmoittelu tapahtuu verkossa ja valinnat tehtäviin toteutetaan työpaikkahaastattelujen perusteella. Työntekijöiden valinnassa lasketaan eniten painoarvoa työmotivaatiolle sekä työskentelytaidoille joita tehtävissä tarvitaan.
 
 ### Riskit
 Yrityksem riskeihin kuulu muunmuassa:
