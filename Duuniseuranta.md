@@ -9,3 +9,7 @@ Tehnyt pohjan duuniseurantaan ja miettinyt osioita liiketoimintasuunnitelmaan
 ###Juuso
 Listannut toolchainiin työkaluja ja antanut niille perusteluita valintoihin
 
+##1. Lokakuuta 2019
+
+###Jenna
+Korjannut hieman Liiketoimintasuunnitelmaa  ja kirjoittanut kilpailusta.
