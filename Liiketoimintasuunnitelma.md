@@ -41,5 +41,8 @@ Yrityksem riskeihin kuulu muunmuassa:
 ## Rahoituslaskelma
 | Rahantarve | EUR |
 | ----------- | ----------- |
-|  | € |
-|  |€ |
+| Yrityksen budjetti ensimmäisen kvartaalin osalta| 10000€ |
+|  Osakkaiden omat sijoitukset yhtiöön|10000€ |
+
+Yritys toimii kvartaalitaloudessa ja sen tuloksia mitataan kvartaaleittain. Yrityksen budjetti ensimmäisen kvartaalin osalta on 10000€. Yritys organisoidaan ja käynnistetään ensimmäisen kvartaalin aikana. Myynti ja markkinointi aloitetaan toimitusjohtajan toimesta ensimmäisten neljän kuukauden aikana. Saadut toimeksiannot käynnistetään toisella kvartaalilla ja henkilökunta palkataan tehtäviin samaan aikaan. Näin toiminta rahoitetaan jatkossa tulorahoituksella.
+
