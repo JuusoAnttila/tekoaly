@@ -21,6 +21,7 @@ Yrityksen toimintaa ohjaa yhtiön hallitus. Ja hallitukseen kuuluu kaikki yhtiö
 
 ## Kohderyhmä
 Yrityksille jotka tarvii nopeaa laadun tarkistusta ilman että laatu kärsii
+Esimerkkeinä toimii metallialan yritykset jotka tekee paljon hitsauksia jolloinka tekoäly voisi nopeasti valvoa hitsaus jälkien laadun ja näin nopeuttaa tuotteiden hitsaamista. Tekoäly tekee yhteenvedon mitkä kohdat pitää korjata luujuuden ja tiiveyden varmistamiseksi. Suuret kattila firmat voisivat käyttää sitä kattiloiden liitoksien laadun varmistamiseen jolloinka isot firmat säästäisivät rahaa eikä tehtaiden käynnistys myöhästyisi koska liitokset olivat liian huonoja.
 
 ## Kilpailijat
 Muut yritykset/palvelun tarjoat, jotka tuottavat/tarjoavat samankaltasia laaduntarkkailujärjestelmiä.
