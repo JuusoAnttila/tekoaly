@@ -5,3 +5,7 @@ Duuniseuranta
 
 ###Jenna
 Tehnyt pohjan duuniseurantaan ja miettinyt osioita liiketoimintasuunnitelmaan
+
+###Juuso
+Listannut toolchainiin työkaluja ja antanut niille perusteluita valintoihin
+
