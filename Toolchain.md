@@ -31,7 +31,8 @@ Koska se tapahtuu muualla kuin paikallisella koneella voidaan kirjoittaa koodia 
 Googlen omistama yritys joka tarjoaa end to end vapaan lähdekoodin koneoppimiseen perustuvaa lähdekoodia.
 TensorFlowilla pystyy opettamaan ognelmien ratkaisua tekoälylle. Tarvitsemme ainoastaan paljon materiaalia jota se käsittelee ja havaitsee onglemat ja näin opetamme sen vahtimaan tarkasti laadun valvonnassa.  
 Yksi mahdollisista tarjottavista ratkaisuista voisi olla metsänomistajille mahdollisuus tarkastella tiluksiaan tietokoneelta käsin. Tämän ratkaisun voisi toteuttaa joko satelliittikuvien tai ilmakuvien avulla. Ratkaisun johdosta metsänomistajilla säästyy aikaa ja mahdollisesti rahaa, mikäli he muuten tarkistaisivat tiluksiaan autolla. (Maaseutu 2.0 
-siirtää metsänomistajan digiaikaan. 2016.) 
+siirtää metsänomistajan digiaikaan. 2016.) Tätä tiedostoa muutetaan bracketissa taman verran...
+
 
 
 
