@@ -42,5 +42,5 @@ Yrityksen riskeihin kuulu muunmuassa:
 ## Rahoituslaskelma
 | Rahantarve | EUR |
 | ----------- | ----------- |
-| Budjetti | 10000€ |
-|  Osakkaiden oma sijoitus yritykseen|10000€ |
+| Budjetti | 10000 € |
+|  Osakkaiden oma sijoitus yritykseen|10000 € |
