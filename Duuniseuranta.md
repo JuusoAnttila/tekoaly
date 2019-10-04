@@ -25,7 +25,15 @@ Lisätty tekstiä Liiketoimintaan kohderyhmän kohdalle.
 ### Jarno
 Lisännyt osioita liiketoimintasuunnitelmaan. Tänään enemmän git jumppaa kuin eilen.
 
+### Tuomas
+Aloitin tiedonkeräämisen
+
 ## 2. Lokakuuta 2019
 
 ### Jenna
 Tein hieman pilkunviilausta.
+
+## 4. Lokakuuta 2019
+
+### Tuomas
+Tekstiin tiedon dumppaamista asioista, joita ei oltu mainittu
