@@ -19,7 +19,7 @@ Javalla voi kirjoittaa vaikeimmat kohdat, joita on lähestulkoon mahdotonta kirj
 
 ### Ruby
 
-Ruby voi toimia osittaisena Javan vastikkeena, mikäli web ympäristöä UI-tapaan tarvitaan.
+Ruby voisi toimia Javan vastikkeena, mikäli web ympäristöä UI-tapaan tarvitaan, tai mikäli halutaan ei Javalla pyörivä käyttöliittymä.
 
 ### Visual Studio Code
 
