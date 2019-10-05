@@ -37,3 +37,8 @@ Tein hieman pilkunviilausta.
 
 ### Tuomas
 Tekstiin tiedon dumppaamista asioista, joita ei oltu mainittu
+
+## 5. Lokakuuta 2019
+
+### Tuomas
+Pientä viilausta ja muotoilua.
