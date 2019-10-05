@@ -42,3 +42,4 @@ Tekstiin tiedon dumppaamista asioista, joita ei oltu mainittu
 
 ### Tuomas
 Pientä viilausta ja muotoilua.
+Uudelleen muotoilua ja kirjoitusvirheiden ja pilkkujen korjaamista.
